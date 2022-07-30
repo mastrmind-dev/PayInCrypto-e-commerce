@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "payincrypto-agent-srhg",
+  "private_key_id": "4c24be7c3e44784fb5292b4495430bfb34742ed4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDecNan3y7GbF7E\nNgAhW0Ifz3ye/+eAxcpTRQwiSez4mNeQWD5BOThm/IZUSbrerSFICJnmfRkZ8uSs\n3238IblHuW0MWqxjIqZrXL6Qeq5vtPq3qli8bz4CiJbNvpK3vSDpYMb4Tv03WHKH\neM0KjRZ47hiucL4bw/R0LIacKtyipM7nEd9rUoWRjEja09SWJJZ1aSLH330gPGsW\nlF0m4lHboc02j01ehpw5EiW6F8KFo0SoDH75io/IO+El7UwvV/iKgAaTP/tieP/F\nMUETY5zsYBzcSEnghVCo1U5N6kBFdYbUfbBuExHMxz0I7Wdhs4CqezPdTil1gxL0\nxuz6229ZAgMBAAECggEAaKQQdtxI9tMYKZl1qjtx+eDzsSCVWUCyk0WSFbdNIQ1V\nqvO4JZqza88zqgcdP4+WbnqNW55R5qEa7jAVX1zF+nXCVON64Q/11d/FTdZIpQgw\nQaKDJ/H06+AxgQw7nO/9wYvjTgBqolSbXBt56ZLBlZX8SmODKzCdmOExWdnX/TJF\n4j7sZd9mk0MLI0PxELf+VLvlMz6qfP9OTZkF0y/DqyTttnHLJQ7BMgse/V+64FJN\nspa3R2BuFwhgPIHUFbeLcjdM3yT8WDcy4R5CFyLAtflEbm8T2ThZslREj5gWB6mX\n0T3atPrzGocLUcYhFT8W87Goiiuv0zsqEHk90QduWQKBgQD5A77+5HULTgiRKCn3\nJUc8ePk1/TOL53OrqKrJ7eBv3h64aNWufn43zNjEm/inJsHIKo5E3FBlTWvfPKFJ\nbMBoY8VtofX1EYsJ8TA7IL2p3mSs9ZZWTPjQWLVcLBHipx/OIYvZ4uKiCEhD0QVL\n+MG0gt6fw94YAxVCwJv96WohrwKBgQDkrkHMrLKxl+pdBSA9BsThYOitLThKvMeo\nUjvaGbkJV4BiP4nP17riZfop7YXahOKISl9nt35xTBv1UNNfBFOQRP9kXEYgUCLc\nmWNC6vw94XEcxJrINmW7ftMUj2GC1lqkO2RlHA6B4+6kP8h2lrIoM7JU/lD6wQGK\nSlxWfttpdwKBgQDjrgsqX5Ss+3JV1pVYRht2LV4fgR1qY/udDqDp9LfrUPphvmjy\nHPIm7wOb8MhPfN5duJtQVuijV0C0YmlOC0N5rw/LB/UtWBb6xi5FQdBoytDeW8ZT\nrhkp1pIsbpcD1676+C040XxKjqwUZb8kEZR7CdWn2pzs85Sy7g0zAgJqPQKBgDPy\nHYJHzIOo9ZTRwEP8kKZ9o/0Ko5nejh//Jhdh9nVXyhMHSd/LqmkZLx1tFhXQT8ET\n294sgW1tE4DDLnCMBAtmkPkUON3INlMUCMc/p7LKzi3xvxMxwCQ6J+qos0bMOGTM\nFP8ew3Df/OqUjo3Zp3iYXa8O4ghD5XyrbZQ8Vsz7AoGAWImipfm12E9QDg0skpXA\n9yWu4ES/Mc/Rmr4o9z7UVtGAuzP/tXMycRzD5+tuPlaKJUB+/P53clvBmyyhDNGS\n0WknzxIj90/ToGNeIqdQuQiP5xNLLsisxGDShlbySUedyiLpxw6bW5vYyWrXUdcb\nl/4moOElJGc271n15PBb/qs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-client@payincrypto-agent-srhg.iam.gserviceaccount.com",
+  "client_id": "116746852195199167349",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-client%40payincrypto-agent-srhg.iam.gserviceaccount.com"
+}

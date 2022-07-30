@@ -1,0 +1,52 @@
+.navbar{
+    background-color: #003f5c !important;
+    right: 0;
+    left: 0;
+    z-index: 2;
+    position: fixed;
+    margin-top: -100px !important;
+}
+
+.nav-link{
+    color: #fff !important;
+}
+
+.navbar-brand{
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+.footer{
+    padding: 10px;
+    background-color: #003f5c;
+    color: white;
+    text-align: center;
+    position: static;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+button{
+    background-color: turquoise;
+    box-shadow: none;
+    border: 1px solid rgba(255, 255, 255, 0.654);
+    color: white;
+    padding: 5px;
+}
+
+.container{
+    margin-top: 100px !important;
+    margin-bottom: 50px !important;
+}
+
+.icon{
+    cursor: pointer;
+}
+
+.loader{
+    position: inherit;
+    margin-top: 50vh;
+    height: 100px;
+    width: 100px;
+}

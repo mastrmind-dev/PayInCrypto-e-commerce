@@ -1,0 +1,64 @@
+.form-control {
+  margin-top: 15px !important;
+}
+
+.login-control{
+    margin-top: 35px !important;
+}
+
+.register-form {
+  box-shadow: rgba(202, 141, 141, 0.24) 0px 3px 8px;
+  padding: 20px;
+  margin-top: 30%;
+  margin-bottom: auto;
+  background-color: white;
+}
+
+.login-form{
+    box-shadow: rgba(202, 141, 141, 0.24) 0px 3px 8px;
+    padding: 20px;
+    margin-top: 30%;
+    margin-bottom: auto;
+    background-color: white;
+}
+
+.register-form-parent{
+    z-index: 2;
+}
+
+.login-animation{
+    z-index: 2;
+}
+
+.register-animation {
+  z-index: 2;
+}
+
+.register-parent {
+  background-color: skyblue;
+}
+
+.register-bottom {
+  height: 50%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: steelblue;
+}
+
+.authenticate-btn{
+    width: 100%;
+}
+
+.authentication-title{
+    text-align: center;
+}
+
+.authentication-link{
+    text-decoration: none;
+}
+
+input{
+  box-shadow: none !important;
+}
