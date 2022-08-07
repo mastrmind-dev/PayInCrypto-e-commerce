@@ -56,6 +56,11 @@ const Header = () => {
                 <FaCartPlus /> {cartItems.length}
               </Link>
             </li>
+            <li>
+              <Link className="nav-link btn btn-primary" style={{fontWeight:"bolder"}} to="/cart">
+                Crypto Exchange
+              </Link>
+            </li>
           </ul>
         </div>
       </div>
