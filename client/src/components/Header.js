@@ -57,9 +57,9 @@ const Header = () => {
               </Link>
             </li>
             <li>
-              <Link className="nav-link btn btn-primary" style={{fontWeight:"bolder"}} to="/cart">
+              <a className="nav-link btn btn-primary" href="http://localhost:4000" target="_blank" style={{fontWeight:"bolder"}}>
                 Crypto Exchange
-              </Link>
+              </a>
             </li>
           </ul>
         </div>
